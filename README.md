@@ -2,6 +2,6 @@
 
 My Projects:
 
-+ Projeto para gestão de clientes << https://gestao-clientes-remake.herokuapp.com >>
-+ Projeto bula de remédios << https://tabela-farmaceutica.herokuapp.com >>
-+ Projeto de gerenciamento de PDF (em desenvolvimento) << https://pdf-manage.herokuapp.com >>
++ Projeto para gestão de clientes: http://bit.ly/g-clientes
++ Projeto bula de remédios: http://bit.ly/b-remedios
++ Projeto de gerenciamento de PDF (em desenvolvimento): http://bit.ly/pdf-manager
