@@ -1,0 +1,22 @@
+.header-portfolio {
+    height: 20rem;
+}
+
+.card {
+    width: 20rem;;
+}
+
+.card img {
+    width: 19.9rem;
+    height: 10.9rem;
+}
+
+.card-body {
+    height: 13rem;
+    padding-top: 2.5rem !important;
+}
+
+.vitrin {
+    min-height: 100rem;
+    padding-top: 10rem;
+}
